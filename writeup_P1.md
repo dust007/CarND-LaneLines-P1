@@ -16,19 +16,20 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./test_images_output/gray.png "Grayscale"
+[image1]:  ./test_images_output/gray.png "Grayscale"
 
-[image2]: ./test_images_output/blur_gray.png "Gaussian"
+[image2]:  ./test_images_output/blur_gray.png "Gaussian"
 
-[image3]: ./test_images_output/edges.png "canny"
+[image3]:  ./test_images_output/edges.png "canny"
 
-[image4]: ./test_images_output/masked_edges.png "region"
+[image4]:  ./test_images_output/masked_edges.png "region"
 
-[image5]: ./test_images_output/line_image.png "lines"
+[image5]:  ./test_images_output/line_image.png "lines"
 
-[image6]: ./test_images_output/lines_edges.png "processed"
+[image6]:  ./test_images_output/lines_edges.png "processed"
 
-[image7]: ./test_images_output/line_image_full.png "lines_full"
+[image7]:  ./test_images_output/line_image_full.png "lines_full"
+
 ---
 
 ### Reflection
